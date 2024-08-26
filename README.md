@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyashladdha&label=Profile%20views&color=0e75b6&style=flat" alt="priyashladdha" /> </p>
 
-- 🔭 I’m currently working on **Spotify Clone using MERN stack**
+- 🔭 I’m currently working on **Super Mario game using Java**
 
 - 🌱 I’m currently learning **Computer Science Engineering at RCOEM, Nagpur**
 
