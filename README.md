@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyash Laddha</h1>
-<h3 align="center">A passionate Web-Developer</h3>
+<h3 align="center">A passionate Web and Java Developer ♨️ </h3>
 <img align="right" alt="Web-Developer" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyashladdha&label=Profile%20views&color=0e75b6&style=flat" alt="priyashladdha" /> </p>
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **priyash.laddha@gmail.com**
 
-- ⚡ Fun fact **I am a Gaming Enthusiast**
+- ⚡ Fun fact **"Java stole my heart before anyone else could even compile.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
