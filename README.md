@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **priyash.laddha@gmail.com**
 
-- ⚡ Fun fact **"Java stole my heart before anyone else could even compile.**
+- ⚡ Fun fact **"Java stole my heart before anyone else could even compile."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
